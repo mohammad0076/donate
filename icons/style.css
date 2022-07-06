@@ -64,9 +64,10 @@ p {
     height: 50px;
     padding: 50px;
 
-    border: 3px solid #be4040;
+    border: 2px solid #be4040;
     background-color: rgb(207, 180, 180);
     color: #be4040;
+
 }
 
 
@@ -108,6 +109,7 @@ p {
     border-radius: 10px;
     margin-top: 35px;
     text-align: center;
+    border: none;
 
 }
 
@@ -207,7 +209,7 @@ package-description {
 }
 
 .box-5 {
-    width: 900px;
+    width: 830px;
     height: 90px;
 
     text-align: left;
@@ -230,7 +232,7 @@ package-description {
 }
 
 .box-6 {
-    width: 350px;
+    width: 500px;
     height: 50px;
 
     margin-left: 15%;
@@ -239,12 +241,15 @@ package-description {
 }
 
 .box-7 {
-    width: 125px;
+    width: 200px;
     height: 50px;
     background-color: tomato;
+    border: 0px;
+    font-size: large;
 
-    margin-left: 485px;
-    margin-bottom: 485px;
+    margin-left: 350px;
+
+
 
 
 
