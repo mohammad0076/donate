@@ -146,7 +146,7 @@ p {
 
 #being {
     font-size: 50px;
-    color: aqua;
+    color: tomato;
 
 }
 
@@ -207,13 +207,47 @@ package-description {
 }
 
 .box-5 {
-    width: 500px;
-    height: 150px;
+    width: 900px;
+    height: 90px;
 
+    text-align: left;
+    font-weight: 50px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
 
-
-    margin-left: 30%;
-    margin-right: 30%;
-    border: 1px;
     padding: 15px;
+    padding-left: 20px;
+    padding-top: 100px;
+
+    border-radius: 5px;
+    margin-top: 20px;
+
+    background-color: #f7e2cb;
+
+
+
+}
+
+.box-6 {
+    width: 350px;
+    height: 50px;
+
+    margin-left: 15%;
+
+    background-color: #cff7cb;
+}
+
+.box-7 {
+    width: 125px;
+    height: 50px;
+    background-color: tomato;
+
+    margin-left: 485px;
+    margin-bottom: 485px;
+
+
+
+
+
 }
