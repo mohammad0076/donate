@@ -10,6 +10,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    overflow-x: hidden;
 
 }
 
@@ -141,10 +142,11 @@ p {
     padding: 100px;
 
 
-
+    overflow-x: hidden;
 
 
     text-align: center;
+
 
     font-size: 20px;
 
@@ -157,7 +159,12 @@ p {
 #being {
     font-size: 50px;
     color: tomato;
+    margin-left: 65px;
 
+}
+
+#gonna-do {
+    margin-left: 65px;
 }
 
 package-description {
